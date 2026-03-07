@@ -1,0 +1,14 @@
+[
+  {
+    "jobId": "JD001",
+    "role": "Backend Developer",
+    "aboutRole": "Responsible for backend development",
+    "description": "Java Spring Boot Kafka REST API"
+  },
+  {
+    "jobId": "JD002",
+    "role": "Full Stack Developer",
+    "aboutRole": "Frontend and Backend development",
+    "description": "React Node.js MongoDB JavaScript"
+  }
+]
